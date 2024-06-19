@@ -1,0 +1,41 @@
+P.WEb - TM3
+
+- inline adaldah syntax javascript dibuat pada suatu event (misal: onload)
+
+- internal - syntax js pada element/tag script
+eksternal - fibuat pada file tersendiri berekstensi *.js 
+
+selector
+- id
+- class
+- name
+- element
+
+output
+- mencetak kedalam html dengan innerHTML
+- mencetak output ke html dengan document.write()
+- mencetak output dengan alert box window.alert()
+- 
+
+variabel
+- angka, huruf, karakter dll
+
+tipe data
+
+konstanta
+
+operator
+- operator penugasan =
+- operator perbandingan ==
+- operator increment-decrement - menaikkan atau menurunkan sebanyak satu nilai 
+- operator logika
+- operator string
+
+array
+
+Framework
+css : bootstrap (brand awal mengenai ini)
+
+bootstrap terkenal karena teknologi responsive web
+
+responsive web merupakan 
